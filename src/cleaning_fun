@@ -1,0 +1,9 @@
+##Definiciones usadas para la limpieza
+
+# Función para que muestre la primera letra del string en mayúscula
+def country_n(name):
+    return name.upper()
+print(country_n("USA"))
+
+#Función para que sólo coja dos números.
+(\d{2})
