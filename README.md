@@ -27,8 +27,6 @@ The country with the most shark attacks.
     - string manipulation
     - ..
 
-
-
 #Conclusions
 The country with the monst attacks is USA. 
 (gráfico)
