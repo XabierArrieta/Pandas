@@ -1,7 +1,5 @@
-# Pandas project
-shark.jpg
-
-Global-shark-attacks - Data cleaning & wrangling
+# Proyecto Pandas
+![portada](shark.jpg)
 
 ## Introducción:
 
