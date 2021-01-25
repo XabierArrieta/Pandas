@@ -1,5 +1,5 @@
 # Proyecto Pandas
-![portada](shark.jpg)
+Image("images/shark.jpg")
 
 ## Introducción:
 
