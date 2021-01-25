@@ -1,5 +1,4 @@
 # Proyecto Pandas
-Image("images/shark.jpg")
 
 ## Introducción:
 
