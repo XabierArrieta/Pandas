@@ -1,4 +1,6 @@
 ## Pandas project
+shark.jpg
+
 Global-shark-attacks - Data cleaning & wrangling
 
 #Introduction
@@ -25,16 +27,14 @@ The country with the most shark attacks.
     - columns drop
     - duplicate data
     - string manipulation
-    - ..
+    - regex
 
 #Conclusions
-The country with the monst attacks is USA. 
-(gráfico)
-The sharks attacks are higher in Males than in females.
-(gráfico)
-The average age is:
-(gráfico)
-The sharks attacked while (actividad) this activity.
+
+ - The country with the most attacks is USA.
+ - The sharks attacks are higher in males, 84% than in females, 16%.
+ - The average age is 28 years old.
+
 
 
 
