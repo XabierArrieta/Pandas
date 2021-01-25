@@ -3,7 +3,7 @@ shark.jpg
 
 Global-shark-attacks - Data cleaning & wrangling
 
-## Introduction:
+## Introducción:
 
 Estoy estudiando el bootcamp de Data Analytics en Ironhack en Madrid y este es mi primer proyecto.
 
