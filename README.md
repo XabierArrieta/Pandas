@@ -5,7 +5,7 @@ Global-shark-attacks - Data cleaning & wrangling
 
 ## Introduction:
 
-Estoy estudiando Data Analytics Bootcamp en Ironhack en Madrid y este es mi primer proyecto.
+Estoy estudiando el bootcamp de Data Analytics en Ironhack en Madrid y este es mi primer proyecto.
 
 El objetivo de este proyecto es combinar la limpieza, manipulación y visualización con Pandas.
 
@@ -17,7 +17,7 @@ El dataset contiene 25723 filas and 23 columnas.
 
 ## Hipótesis
 
-¿en qué país han atacado más tiburones?
+¿En qué país han atacado más tiburones?
 
 Teniendo en cuenta el país me he centrado en el sexo y la edad.
 
