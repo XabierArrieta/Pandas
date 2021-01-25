@@ -1,21 +1,28 @@
-## Pandas project
+# Pandas project
 shark.jpg
 
 Global-shark-attacks - Data cleaning & wrangling
 
-# Introduction:
+## Introduction:
 
-I am currently studiying the Data Analytics Bootcamp at Ironhack in Madrid. 
-The goal of this project is to combine data wrangling, cleaning, and manipulation with Pandas.
-For this project, I have used the Global-shark-attacks dataset from [Kaggle]: https://www.kaggle.com/teajay/global-shark-attacksyou.
-The dataset contains 25723 rows and 23 columns.
+Estoy estudiando Data Analytics Bootcamp en Ironhack en Madrid y este es mi primer proyecto.
 
-# Hypothesis
+El objetivo de este proyecto es combinar la limpieza, manipulación y visualización con Pandas.
 
-The country with the most shark attacks.
-Check sex and ages.
+Para este proyecto, me he basado en el dataset 'Global-shark-attacks' extraído de Kaggle. Aquí tenéis el link.
+https://www.kaggle.com/teajay/global-shark-attacksyou.
 
-# Libraries used:
+El dataset contiene 25723 filas and 23 columnas.
+
+
+## Hipótesis
+
+¿en qué país han atacado más tiburones?
+
+Teniendo en cuenta el país me he centrado en el sexo y la edad.
+
+
+## Librerias:
 
 - pandas
 - numpy
@@ -23,7 +30,7 @@ Check sex and ages.
 - seaborn
 - re
 
-# Tecniques used:
+## Técnicas:
 
 - null values
 - columns drop
@@ -31,11 +38,11 @@ Check sex and ages.
 - string manipulation
 - regex
 
-# Conclusions:
+## Conclusiones:
 
- - The country with the most attacks is USA.
- - The sharks attacks are higher in males, 84% than in females, 16%.
- - The average age is 28 years old.
+ - El país con más ataques es Estados Unidos.
+ - Los tiburones atacan un 84% a los hombres y un 16% a las mujeres.
+ - La edad media de los atacados es 28 años y la persona de mas edad atacada por un tiburón tiene 87 años.
 
 
 
