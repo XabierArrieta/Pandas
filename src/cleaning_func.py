@@ -34,7 +34,7 @@ def activity(x):
         return "Fishing"
     else:
         return "Other"
-        
+
 #Agrupo los nombres y los que no son.
 def name(x):
     if x == "male": 
@@ -45,3 +45,7 @@ def name(x):
         return "NoName"
     else:
         return x
+
+#Convierto valores float a enteros.
+def entero(x):
+    return int(x)
